@@ -1,0 +1,168 @@
+[INFO] Game Initializing...
+[INFO] Loaded Resource<image>: resources/images/icon.png
+[INFO] Loaded window icon from: icon.png
+[INFO] There are total 16 supported mouse buttons
+[INFO] Allegro5 initialized
+[INFO] Game begin
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png
+[INFO] Loaded Resource<image>: resources/images/win/floor.png
+[INFO] Loaded Resource<audio>: resources/audios/lose.wav
+[INFO] Game initialized
+[INFO] Game start event loop
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/floor.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/stage-select/slider.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/slider-blue.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/bar.png scaled to 190x4
+[INFO] Loaded Resource<image>: resources/images/stage-select/end.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 28
+[INFO] Loaded Resource<audio>: resources/audios/select.ogg
+[INFO] Changed to stage-select scene
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/floor.png scaled to 64x64
+[INFO] Loaded Resource<image>: resources/images/play/sand.png scaled to 320x832
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 32
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 24
+[INFO] Loaded Resource<image>: resources/images/play/turret-1.png
+[INFO] Loaded Resource<image>: resources/images/play/tower-base.png
+[INFO] Loaded Resource<image>: resources/images/play/floor.png
+[INFO] Loaded Resource<image>: resources/images/play/dirt.png
+[INFO] Loaded Resource<image>: resources/images/play/turret-2.png
+[INFO] Loaded Resource<image>: resources/images/play/turret-3.png
+[INFO] Loaded Resource<image>: resources/images/play/turret-6.png
+[INFO] Loaded Resource<image>: resources/images/play/target.png
+[INFO] Loaded Resource<audio>: resources/audios/play.ogg
+[INFO] Changed to play scene
+[INFO] Loaded Resource<image>: resources/images/play/enemy-1.png
+[INFO] Loaded Resource<image>: resources/images/play/bullet-1.png
+[INFO] Loaded Resource<audio>: resources/audios/gun.wav
+[INFO] Loaded Resource<image>: resources/images/play/dirty-1.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-1.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-2.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-3.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-4.png
+[INFO] Loaded Resource<image>: resources/images/play/explosion-5.png
+[INFO] Loaded Resource<image>: resources/images/play/dirty-2.png
+[INFO] Loaded Resource<image>: resources/images/play/dirty-3.png
+[INFO] Loaded Resource<audio>: resources/audios/explosion.wav
+[INFO] Loaded Resource<image>: resources/images/play/bullet-7.png
+[INFO] Loaded Resource<image>: resources/images/play/plane.png
+[INFO] Loaded Resource<image>: resources/images/play/light-1.png
+[INFO] Loaded Resource<image>: resources/images/play/light-2.png
+[INFO] Loaded Resource<image>: resources/images/play/light-3.png
+[INFO] Loaded Resource<image>: resources/images/play/light-4.png
+[INFO] Loaded Resource<image>: resources/images/play/light-5.png
+[INFO] Loaded Resource<image>: resources/images/play/light-6.png
+[INFO] Loaded Resource<image>: resources/images/play/light-7.png
+[INFO] Loaded Resource<image>: resources/images/play/light-8.png
+[INFO] Loaded Resource<image>: resources/images/play/light-9.png
+[INFO] Loaded Resource<image>: resources/images/play/light-10.png
+[INFO] Loaded Resource<image>: resources/images/play/shockwave.png
+[INFO] Loaded Resource<audio>: resources/audios/shockwave.ogg
+[INFO] Loaded Resource<image>: resources/images/play/enemy-2.png
+[INFO] Loaded Resource<image>: resources/images/play/bullet-2.png
+[INFO] Loaded Resource<audio>: resources/audios/laser.wav
+[INFO] Loaded Resource<image>: resources/images/play/enemy-11.png
+[INFO] Loaded Resource<image>: resources/images/play/enemy-3.png
+[INFO] Loaded Resource<image>: resources/images/play/enemy-3-head.png
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/win/dirt.png
+[INFO] Loaded Resource<image>: resources/images/win/floor.png
+[INFO] Loaded Resource<audio>: resources/audios/win.wav
+[INFO] Changed to win scene
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png scaled to 400x100
+[INFO] Loaded Resource<image>: resources/images/stage-select/dirt.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/floor.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 48
+[INFO] Loaded Resource<image>: resources/images/stage-select/slider.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/slider-blue.png
+[INFO] Loaded Resource<image>: resources/images/stage-select/bar.png scaled to 190x4
+[INFO] Loaded Resource<image>: resources/images/stage-select/end.png
+[INFO] Loaded Resource<font>: resources/fonts/pirulen.ttf with size 28
+[INFO] Loaded Resource<audio>: resources/audios/select.ogg
+[INFO] Changed to stage-select scene
+[INFO] Game Terminating...
+[INFO] Game terminated
+[INFO] Game end
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<image>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<font>
+[INFO] Destroyed Resource<audio>
